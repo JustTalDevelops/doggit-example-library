@@ -1,4 +1,4 @@
-package doggit_example
+package main
 
 import "github.com/JustTalDevelops/doggit"
 
